@@ -1,2 +1,2 @@
 # vim
-vim configuration
+Backup all my vim configuration
